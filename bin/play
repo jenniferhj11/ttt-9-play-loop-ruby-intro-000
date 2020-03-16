@@ -7,3 +7,33 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 play(board)
+$ ./bin/play
+Welcome to Tic Tac Toe!
+   |   |
+-----------
+   |   |
+-----------
+   |   |
+Please enter 1-9:
+1
+ X |   |
+-----------
+   |   |
+-----------
+   |   |
+Please enter 1-9:
+1
+Please enter 1-9:
+2
+ X | X |
+-----------
+   |   |
+-----------
+   |   |
+Please enter 1-9:
+3
+ X | X | X
+-----------
+   |   |
+-----------
+   |   |   
